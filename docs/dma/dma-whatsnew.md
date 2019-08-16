@@ -18,6 +18,10 @@ ms.author: jtoland
 # What's new in Data Migration Assistant
 This article lists the additions in each release of Data Migration Assistant (DMA).
 
+## DMA v4.5
+
+The v4.5 release of DMA provides support for the assessment of SQL Server Integration Services (SSIS) packages hosted in File System.
+
 ## DMA v4.4
 
 The v4.4 release of DMA provides support for uploading assessments to Azure Migrate.
